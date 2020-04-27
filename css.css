@@ -1,0 +1,30 @@
+@charset "windows-1251";
+
+body {
+    background-image: url('coffe.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100%;
+
+
+}
+
+
+
+.container {
+    margin-top: 0.5%;
+    margin-bottom: 5%;
+    margin-left: 50px;
+}
+
+.login-form-1 {
+    padding: 5%;
+
+}
+
+
+
+.login-form-1 h3 {
+    text-align: center;
+    color: #333;
+}
